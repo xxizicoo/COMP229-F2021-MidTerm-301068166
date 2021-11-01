@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/xxizicoo/COMP229-F2021-MidTerm-301068166.git"
   },
   "keywords": [
     "NodeJS",
